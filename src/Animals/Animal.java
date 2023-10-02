@@ -1,4 +1,5 @@
 package Animals;
 
-public abstract class Animal {
+
+public abstract class Animal implements Runnable {
 }
